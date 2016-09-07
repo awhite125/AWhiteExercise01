@@ -1,4 +1,4 @@
-package com.AWhiteExercise01;
+package com.andrewwhite.week_01;
 
 public class Main {
 
