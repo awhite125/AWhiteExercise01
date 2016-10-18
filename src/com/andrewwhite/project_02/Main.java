@@ -212,9 +212,4 @@ class ListItem {
     public void setPriority(int priority) {
         this.priority = priority;
     }
-
-    public String ListAll(){
-        String bob = "fdsa";
-        return bob;
-    }
 }
